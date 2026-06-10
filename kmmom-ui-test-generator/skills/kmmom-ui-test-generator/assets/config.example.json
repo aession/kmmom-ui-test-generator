@@ -1,0 +1,11 @@
+{
+  "base_url": "http://192.168.30.69:40000",
+  "debug_url": "http://127.0.0.1:9223/json/list",
+  "chrome_debug_port": 9223,
+  "workspace": "D:/Personal/Documents/KMMOM系统管理后台",
+  "module": "制造执行",
+  "safe_mode": true,
+  "username": "superAdmin",
+  "password_env": "KMMOM_PASSWORD",
+  "output_date": "auto"
+}

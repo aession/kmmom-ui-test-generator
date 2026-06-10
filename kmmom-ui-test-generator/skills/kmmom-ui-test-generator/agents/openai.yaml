@@ -1,0 +1,4 @@
+﻿interface:
+  display_name: "KMMOM UI Test Generator"
+  short_description: "巡检 KMMOM 页面按钮控件并生成页面级 MeterSphere 用例"
+  default_prompt: "使用 KMMOM UI 测试生成器，遍历指定模块页面，生成界面按钮点击测试表，并按一个页面一条用例生成 MeterSphere 导入文件。"
